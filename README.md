@@ -7,6 +7,9 @@ This repository contains beginner-friendly Python projects created to practice a
 - Tip Calculator
 - Treasure Island Game
 - Rock Paper Scissors
+- Password Generator Project
+- Reeborg’s World Maze Solver
+- Hangman Game
 
 ## Objective
 To enhance logical thinking and coding skills through small, hands-on projects.
