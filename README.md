@@ -10,6 +10,9 @@ This repository contains beginner-friendly Python projects created to practice a
 - Password Generator Project
 - Reeborg’s World Maze Solver
 - Hangman Game
+- Caesar Cipher 
+- Love Calculator
+- Secret Auction Program 
 
 ## Objective
 To enhance logical thinking and coding skills through small, hands-on projects.
