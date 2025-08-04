@@ -15,8 +15,6 @@ logo = """
 |_____________________|
 """
 
-# Print logo
-print(logo)
 
 # Calculator Functions
 def add(n1, n2):
